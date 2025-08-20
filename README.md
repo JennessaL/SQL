@@ -1,4 +1,5 @@
 >💡 **Tip**
+>
 >Read This First.
 
 # **Jennessa Linze's SQL Portfolio**
